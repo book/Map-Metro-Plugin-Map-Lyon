@@ -52,10 +52,10 @@ Parilly
 Gare de Vénissieux
 
 --lines
-MA|M1|Line A|color:#ee3898,width:7
-MB|MB|Line B|color:#007dc5,width:7
-MC|MC|Line C|color:#f99d1d,width:7
-MD|MD|Line D|color:#00ac4d,width:7
+MA|A|Line A|color:#ee3898,width:7
+MB|B|Line B|color:#007dc5,width:7
+MC|C|Line C|color:#f99d1d,width:7
+MD|D|Line D|color:#00ac4d,width:7
 
 --transfers
 
