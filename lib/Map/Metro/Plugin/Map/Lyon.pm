@@ -43,6 +43,14 @@ See L<Map::Metro> for usage information.
 
 L<Map::Metro::Plugin::Map::Lyon::Lines>
 
-...
+This map includes:
+
+=over 4
+
+=item *
+
+The four metro lines [L<wikipedia|https://en.wikipedia.org/wiki/Lyon_Metro>]
+
+=back
 
 =cut
