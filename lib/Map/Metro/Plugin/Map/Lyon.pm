@@ -32,8 +32,7 @@ __END__
     my $graph = Map::Metro->new('Lyon')->parse;
 
 Or
-
-	$ map-metro.pl route Lyon 1 4 
+    $ map-metro.pl route Lyon 1 4
 
 =head1 DESCRIPTION
 
@@ -43,13 +42,26 @@ See L<Map::Metro> for usage information.
 
 L<Map::Metro::Plugin::Map::Lyon::Lines>
 
-This map includes:
+This map includes the four metro lines from the
+L<Lyon metro|https://en.wikipedia.org/wiki/Lyon_Metro>.
 
 =over 4
 
 =item *
 
-The four metro lines [L<wikipedia|https://en.wikipedia.org/wiki/Lyon_Metro>]
+L<Line A|https://en.wikipedia.org/wiki/Lyon_Metro_Line_A>
+
+=item *
+
+L<Line B|https://en.wikipedia.org/wiki/Lyon_Metro_Line_B>
+
+=item *
+
+L<Line C|https://en.wikipedia.org/wiki/Lyon_Metro_Line_C>
+
+=item *
+
+L<Line D|https://en.wikipedia.org/wiki/Lyon_Metro_Line_D>
 
 =back
 
