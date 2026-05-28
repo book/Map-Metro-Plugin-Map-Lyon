@@ -32,6 +32,7 @@ __END__
     my $graph = Map::Metro->new('Lyon')->parse;
 
 Or
+
     $ map-metro.pl route Lyon 1 4
 
 =head1 DESCRIPTION
