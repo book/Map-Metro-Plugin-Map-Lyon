@@ -1,4 +1,4 @@
-use 5.14.0;
+use v5.14;
 
 package Map::Metro::Plugin::Map::Lyon;
 
